@@ -1,4 +1,4 @@
-# LemonBCD (Windows 启动项管理工具) 
+# LemonBCD 柠檬BCD (Windows 启动项管理工具) 
 
 > **适用版本**：LemonBCD Windows 专属版（绿色免安装单文件、200 KB）  
 > **适用环境**：Windows 11 / Windows 10 / Windows 8.1 / Windows 7 SP1 (x86 / x64)  
